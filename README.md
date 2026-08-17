@@ -50,4 +50,4 @@ python dlyoutube.py https://www.youtube.com/watch?v=XXXXXXXXXXX -o downloads
 
 ## ผู้จัดทำ
 
-_ระบุชื่อ-รหัสนักศึกษาของคุณที่นี่_
+_ชื่อศุภกานณ์-รหัส168404140040_
